@@ -8,7 +8,7 @@
 
 
 ✅ [Angular 16](https://angular.io/)  
-✅ [Angular Material](https://material.angular.io/)  
+✅ [TailwindCSS](https://tailwindcss.com/)  
 ✅ Unit Testing with [Jest](https://jestjs.io/)  
 ✅ End-to-End Testing with [Cypress](https://www.cypress.io/)  
 ✅ [ESLint](https://eslint.org/)
