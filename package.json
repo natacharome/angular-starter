@@ -11,7 +11,8 @@
     "test:watch": "jest --watch",
     "e2e": "ng e2e",
     "cypress:open": "cypress open",
-    "cypress:run": "cypress run"
+    "cypress:run": "cypress run",
+    "lint": "ng lint"
   },
   "private": true,
   "dependencies": {
@@ -33,16 +34,25 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^16.0.1",
+    "@angular-eslint/builder": "16.1.2",
+    "@angular-eslint/eslint-plugin": "16.1.2",
+    "@angular-eslint/eslint-plugin-template": "16.1.2",
+    "@angular-eslint/schematics": "16.1.2",
+    "@angular-eslint/template-parser": "16.1.2",
     "@angular/cli": "~16.0.1",
     "@angular/compiler-cli": "^16.0.0",
     "@cypress/schematic": "^2.5.0",
     "@types/jasmine": "~4.3.0",
     "@types/jest": "^29.5.4",
+    "@typescript-eslint/eslint-plugin": "5.62.0",
+    "@typescript-eslint/parser": "5.62.0",
+    "cypress": "latest",
+    "eslint": "^8.47.0",
     "jasmine-core": "~4.6.0",
     "jest": "^29.6.4",
+    "prettier": "^3.0.3",
     "ts-jest": "^29.1.1",
-    "typescript": "~5.0.2",
-    "cypress": "latest"
+    "typescript": "~5.0.2"
   },
   "jest": {
     "preset": "jest-preset-angular",
