@@ -1,27 +1,35 @@
-# AngularStarter
+# Angular Starter pack
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.1.
+![Angular16](https://img.shields.io/badge/Angular-16-brightgreen)
 
-## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+![logo](src/assets/images/angular-starter-pack.png)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+✅ [Angular 16](https://angular.io/)  
+✅ [Angular Material](https://material.angular.io/)  
+✅ Unit Testing with [Jest](https://jestjs.io/)  
+✅ End-to-End Testing with [Cypress](https://www.cypress.io/)  
+✅ [ESLint](https://eslint.org/)
+✅ [Prettier](https://prettier.io/)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Commands
 
-## Running unit tests
+- `npm run test` - run unit tests
+- `npm run test:coverage`  - run unit tests coverage
+- `npm run test:watch` - run unit tests with watcher
+- `npm run e2e` - run e2e tests with watcher
+- `npm run start` for a dev server. Navigate to `http://localhost:4200/`
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Install 
 
-## Running end-to-end tests
+```bash
+# Clone the project
+$ git clone https://github.com/natacha-rome/angular-starter
+$ cd angular-starter
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+# Install dependencies
+$ npm install
+```
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
