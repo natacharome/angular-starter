@@ -1,13 +1,10 @@
 # Angular Starter pack
 
-![Angular16](https://img.shields.io/badge/Angular-16-brightgreen)
-
-
 ![logo](src/assets/images/angular-starter-pack.png)
 
 
 
-✅ [Angular 16](https://angular.io/)  
+✅ [Angular 17](https://angular.io/)  
 ✅ [TailwindCSS](https://tailwindcss.com/)  
 ✅ Unit Testing with [Jest](https://jestjs.io/)  
 ✅ End-to-End Testing with [Cypress](https://www.cypress.io/)  
