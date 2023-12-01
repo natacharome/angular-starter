@@ -1,5 +1,7 @@
 # Angular Starter pack
 
+Currently build is broken, work in progress fixing it and deploy to github pages
+
 ✅ [Angular 17](https://angular.io/)  
 ✅ [TailwindCSS](https://tailwindcss.com/)  
 ✅ Unit Testing with [Jest](https://jestjs.io/)  
