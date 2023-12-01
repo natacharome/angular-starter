@@ -1,9 +1,5 @@
 # Angular Starter pack
 
-![logo](src/assets/images/angular-starter-pack.png)
-
-
-
 ✅ [Angular 17](https://angular.io/)  
 ✅ [TailwindCSS](https://tailwindcss.com/)  
 ✅ Unit Testing with [Jest](https://jestjs.io/)  
