@@ -1,5 +1,7 @@
 # Angular Starter pack
 
+[DEMO](https://natacharome.github.io/angular-starter/)
+
 Currently build is broken, work in progress fixing it and deploy to github pages
 
 ✅ [Angular 17](https://angular.io/)  
